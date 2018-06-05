@@ -1,18 +1,17 @@
 {
   "compatibleVersion": 3,
   "bundleVersion": 1,
-  "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "name": "스케치 테스트",
+      "identifier": "test-sketch",
+      "script": "./sketch/Test.js"
     }
   ],
   "menu": {
-    "title": "react-sketchapp-examples",
+    "title": "스케치 테스트",
     "items": [
-      "my-command-identifier"
+      "test-sketch"
     ]
   }
 }
