@@ -26,7 +26,7 @@
     "extend": "^3.0.2"
   },
   "dependencies": {
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react": "^16.4.0",
     "react-sketchapp": "^2.0.0",
     "react-test-renderer": "^16.4.0"
